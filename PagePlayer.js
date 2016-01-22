@@ -62,8 +62,8 @@ function PagePlayer( list )
 		var wrapper = document.createElement("div");
 		wrapper.setAttribute("id","PagePlayerWrapper");
 		/* build the elements */
-		
-/*		//create the duration div
+	
+        	//create the duration div
 		d = document.createElement("div");
 		d.setAttribute("id","duration");
 		//create the duration bar
@@ -77,7 +77,7 @@ function PagePlayer( list )
 		duration_background.appendChild(duration_bar);
 		d.appendChild(duration_background);
 		//append the duration to the wrapper
-		wrapper.appendChild(d);		*/
+		wrapper.appendChild(d);
 		//
 		//
 		//replace the ul with the wrapper
