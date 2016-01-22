@@ -22,10 +22,9 @@ html, body {
 	float:left;
 }
 #PagePlayerList h3{
-	font-size:16px;
-	padding:0px;
+	font-size:14px;
+	padding:5px 5px 10px 5px;
 	margin:0px;
-	height: 40px;
 }
 #PagePlayerDescription{
 	overflow:auto;
@@ -79,9 +78,9 @@ html, body {
 	width:20%;
 	height:15px;
 	border: 2px solid #0a0;
-	float:right;
+	float:left;
 	position: fixed;	
-	margin: 680px 0px 0px 325px;
+	margin: 680px 0px 0px 350px;
 }
 
 #volume_background{

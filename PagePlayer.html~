@@ -4,17 +4,6 @@
 	<title>JavaScript Audio Player</title>
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-
-<!-- Optional theme -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
-
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>	
-	
-	
 	<script src="PagePlayer.js" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="PagePlayer.css">
 </head>
@@ -46,13 +35,21 @@
 			<p><a href="http://en.wikipedia.org/wiki/Star_of_the_County_Down">Star of the County Down</a> Although I don't remember where I first heard this traditional tune, it has always seemed to stick with me.</p>
 			<a href="audio/star_of_the_county_down.ogg">Download</a>
 		</li>
-		
 		<li>
 			<h3>Test with mp3</h3>
 			<p><a href="http://en.wikipedia.org/wiki/Star_of_the_County_Down">Test.</p>
 			<a href="audio/lan_zhi_ling_yin.mp3">Download</a>
 		</li>
-		
+		<li>
+			<h3>Test with mp3</h3>
+			<p><a href="http://en.wikipedia.org/wiki/Star_of_the_County_Down">Test.</p>
+			<a href="audio/lan_zhi_ling_yin.mp3">Download</a>
+		</li>
+		<li>
+			<h3>Ye Banks and Braes: Homemade Banjo</h3>
+			<p>One of my favorite tunes. This rendition is roughly based on an arrangement available online at <a href="http://clawhammerbanjo.wordpress.com/2006/12/02/celtic-tunes/">http://clawhammerbanjo.wordpress.com/2006/12/02/celtic-tunes/</a></p>
+			<a href="audio/ye_banks_and_braes_banjo.ogg">Download</a>
+		</li>
 		<li>
 			<h3>Ye Banks and Braes: Homemade Banjo</h3>
 			<p>One of my favorite tunes. This rendition is roughly based on an arrangement available online at <a href="http://clawhammerbanjo.wordpress.com/2006/12/02/celtic-tunes/">http://clawhammerbanjo.wordpress.com/2006/12/02/celtic-tunes/</a></p>
