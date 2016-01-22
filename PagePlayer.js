@@ -122,8 +122,6 @@ function PagePlayer( list )
 		//add the button to the buttonbar
 		button_bar.appendChild(next);
 
-
-/*
 		//create the volume div
 		volume_control = document.createElement("div");
 		volume_control.setAttribute("id","volume_control");
@@ -138,7 +136,7 @@ function PagePlayer( list )
 		volume_background.appendChild(volume_bar);
 		volume_control.appendChild(volume_background);
 		//append the volume to the wrapper
-		wrapper.appendChild(volume_control); */
+		wrapper.appendChild(volume_control);
 	
 		//create a div to hold the list and info
 		listDescWrapper = document.createElement("div");
