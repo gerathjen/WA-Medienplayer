@@ -104,12 +104,14 @@ html, body {
 	height:15px;
 	border: 2px solid #50b;
 	margin-bottom:5px;
+	display:none;
 }
 
 #duration_background{
 	width:100%;
 	height:15px;
 	background-color:#ddd;
+	display:none;
 }
 
 #duration_bar{
@@ -117,6 +119,7 @@ html, body {
 	height:15px;
 	background-color:#50b;
 	opacity:0.4;
+	display:none;
 }
 
 .button{
