@@ -81,7 +81,7 @@ html, body {
 	border: 2px solid #0a0;
 	float:left;
 	position: fixed;	
-	margin: 640px 0px 0px 155px;
+	margin: 680px 0px 0px 350px;
 }
 
 #volume_background{
@@ -119,13 +119,13 @@ html, body {
 
 .button{
 	color: black;
-	border: 2px solid gray;
+	/*border: 2px solid gray;*/
 	cursor:pointer;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
 	background:no-repeat center;
-	height:20px;
+	height:100px;
 }
 
 /* add the images to the backgrounds of the buttons */
@@ -133,27 +133,27 @@ html, body {
 	background-image:url("images/play.png");
 	position: fixed;	
 	margin-top: 640px;
-	width:20px;
+	width:100px;
 }
 
 #pause{
 	background-image:url("images/pause.png");
 	position: fixed;	
 	margin-top: 640px;	
-	width:20px;
+	width:100px;
 	display:none;
 }
 
 #previous{
 	background-image:url("images/previous.png");
 	position: fixed;
-	margin: 640px 0px 0px 25px;
-	width:25px;
+	margin: 640px 0px 0px 100px;
+	width:105px;
 }
 
 #next{
 	background-image:url("images/next.png");
 	position: fixed;
-	margin: 640px 0px 0px 55px;
-	width:25px;
+	margin: 640px 0px 0px 205px;
+	width:105px;
 }
