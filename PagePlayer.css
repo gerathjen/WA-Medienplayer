@@ -81,6 +81,7 @@ html, body {
 	float:left;
 	position: fixed;	
 	margin: 680px 0px 0px 350px;
+	display:none;
 }
 
 #volume_background{
