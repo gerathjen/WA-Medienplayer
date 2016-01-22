@@ -216,7 +216,7 @@ function PagePlayer( list )
 		//load the initial track
 		load_track(0);
 		//update the volume bar
-		// update_volume_bar();
+		update_volume_bar();
 	}
 }
 
