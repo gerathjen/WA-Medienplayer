@@ -22,7 +22,7 @@ html, body {
 	float:left;
 }
 #PagePlayerList h3{
-	font-size:16px;
+	font-size:20px;
 	padding:5px 5px 10px 5px;
 	margin:0px;
 }
@@ -31,12 +31,7 @@ html, body {
 	position:relative;
 	float:right;
 	width:50%;
-/*	border: 1px solid gray;
-	box-shadow: 10px 10px 5px gray;
-	padding:10px;
-	-moz-border-radius: 5px;
-  	-webkit-border-radius: 5px;
-	border-radius: 5px;*/
+	font-size: 18px;
 }
 #PagePlayerListDescWrapper{
 	clear:both;
@@ -44,9 +39,9 @@ html, body {
 
 #PagePlayerCredit{
   font-size:12px;
-  text-align:right;
+  text-align:left;
   position: relative;
-  margin: 5% 0% 0% 0%
+  margin: 0% 5% 0% 0%
 }
 
 .PagePlayerListItemSelected{
@@ -105,7 +100,6 @@ html, body {
 	margin-left: 120px;
 	width:26%;
 	height:15px;
-	/* border: 2px solid silver; */
 	border: 1px solid #A8C8E9;
 	box-shadow: 10px 10px 5px #A8C8E9;
 	padding:10px;
@@ -171,4 +165,12 @@ html, body {
 	margin: 600px 0px 0px 205px;
 	width:105px;
 	display: none;
+}
+
+.TitleFromCD {
+	font-size: 120px;
+	font-variant: small-caps;
+	text-align:right;
+ 	position: relative;
+ 	margin: 0% 5% 5% 0%;
 }
