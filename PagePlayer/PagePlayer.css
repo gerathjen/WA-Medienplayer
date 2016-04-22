@@ -168,9 +168,10 @@ html, body {
 }
 
 .TitleFromCD {
-	font-size: 120px;
+	font-size: 100px;
 	font-variant: small-caps;
-	text-align:right;
+	text-align:left;
  	position: relative;
- 	margin: 0% 5% 5% 0%;
+ 	margin-left: 700px;
+ 	margin-top: 10px;
 }
