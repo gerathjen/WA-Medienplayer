@@ -1,0 +1,36 @@
+CACHE MANIFEST
+
+# Daten, die gecached werden sollen
+CACHE:
+PagePlayer-nix-verstehen.html
+PagePlayer-nix-verstehen.css
+PagePlayer.js
+audio/nix-verstehen/griechisch.mp3
+audio/nix-verstehen/italienisch.mp3
+audio/nix-verstehen/russisch.mp3
+audio/nix-verstehen/tuerkisch.mp3
+images/play-75.png
+images/pause-75.png
+images/flags/germany-greece.png
+images/flags/germany-italy.png
+images/flags/germany-russia.png
+images/flags/germany-turkey.png
+
+# Seiten, die nur online genutzt werden können
+NETWORK:
+		
+# Statische Seiten, wenn eine Anwendung nicht erreichbar ist
+FALLBACK:
+PagePlayer-nix-verstehen.html
+PagePlayer-nix-verstehen.css
+PagePlayer.js
+audio/nix-verstehen/griechisch.mp3
+audio/nix-verstehen/italienisch.mp3
+audio/nix-verstehen/russisch.mp3
+audio/nix-verstehen/tuerkisch.mp3
+images/play-75.png
+images/pause-75.png
+images/flags/germany-greece.png
+images/flags/germany-italy.png
+images/flags/germany-russia.png
+images/flags/germany-turkey.png
