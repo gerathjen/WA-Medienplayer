@@ -1,0 +1,61 @@
+CACHE MANIFEST
+
+# v000001
+# Daten, die gecached werden sollen
+CACHE:
+PagePlayer-roots.html
+PagePlayer.css
+PagePlayer.js
+audio/roots/01_Kongo_Ricardo.mp3
+audio/roots/02_Tibet_Yungchen.mp3
+audio/roots/03_Tuerkei_Ebru.mp3
+audio/roots/04_Tschechien_Vera.mp3
+audio/roots/05_Spanien_Berrogueetto.mp3
+audio/roots/06_Italien_Calic.mp3
+audio/roots/07_Russland_Dimitri.mp3
+audio/roots/08_Bosnien_Mostar.mp3
+images/play-75.png
+images/pause-75.png
+images/flags/democratic_republic_of_the_congo.png
+images/flags/bosnia.png
+images/flags/czech-republic.png
+images/flags/italy.png
+images/flags/russia.png
+images/flags/spain.png
+images/flags/tibet.png
+images/flags/turkey.png
+images/roots/2787411919_432934294e_o.jpg
+images/roots/320px-Mostar_Sevdah_Reunion_and_Dragi_Sestic.jpg
+images/roots/Berroguetto_2013.jpg
+images/roots/Dmitri_Pokrovsky_Ensemble.jpg
+
+# Seiten, die nur online genutzt werden können
+NETWORK:
+		
+# Statische Seiten, wenn eine Anwendung nicht erreichbar ist
+FALLBACK:
+PagePlayer-roots.html
+PagePlayer.css
+PagePlayer.js
+audio/roots/01_Kongo_Ricardo.mp3
+audio/roots/02_Tibet_Yungchen.mp3
+audio/roots/03_Tuerkei_Ebru.mp3
+audio/roots/04_Tschechien_Vera.mp3
+audio/roots/05_Spanien_Berrogueetto.mp3
+audio/roots/06_Italien_Calic.mp3
+audio/roots/07_Russland_Dimitri.mp3
+audio/roots/08_Bosnien_Mostar.mp3
+images/play-75.png
+images/pause-75.png
+images/flags/democratic_republic_of_the_congo.png
+images/flags/bosnia.png
+images/flags/czech-republic.png
+images/flags/italy.png
+images/flags/russia.png
+images/flags/spain.png
+images/flags/tibet.png
+images/flags/turkey.png
+images/roots/2787411919_432934294e_o.jpg
+images/roots/320px-Mostar_Sevdah_Reunion_and_Dragi_Sestic.jpg
+images/roots/Berroguetto_2013.jpg
+images/roots/Dmitri_Pokrovsky_Ensemble.jpg
